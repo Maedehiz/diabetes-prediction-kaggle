@@ -1,4 +1,3 @@
-# diabetes-prediction-kaggle
 # 🩺 Diabetes Prediction using Machine Learning
 
 A complete end-to-end machine learning pipeline for predicting diabetes probability using demographic, lifestyle, and behavioral survey features. This project was developed as a solution for the Kaggle **Playground Series - Season 5, Episode 12** competition and demonstrates the complete data science workflow from exploratory data analysis to model interpretation.
